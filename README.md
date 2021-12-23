@@ -1,4 +1,4 @@
-## Olá, Eu sou o Isaias Pereira Pinto 
+## Olá, meu nome é Isaias Pereira Pinto 
  <div>
   <a href="https://github.com/ipp2021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipp2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
